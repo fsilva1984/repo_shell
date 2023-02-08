@@ -13,3 +13,5 @@ echo "$VAR"
 VAR_NUM=32
 
 echo $VAR_NUM
+# Or
+echo "$VAR_NUM"
